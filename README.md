@@ -27,3 +27,9 @@ const Example = () => (
  - height: *number*
  - colorStart?: *string*
  - colorEnd?: *string*
+
+ ## Inspiration
+
+This component was created inspired by https://github.com/danilowoz/react-content-loader. If you want to have more flexibility creating  your own SVGs or even using some preseted ones this is the one.
+
+This lib was built for you that just dont want to concern about SVG syntax right now.
