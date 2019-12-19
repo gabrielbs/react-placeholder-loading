@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1576703623693" clover="3.2.0">
+  <project timestamp="1576703623693" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5" elements="33" coveredelements="33" complexity="0" loc="24" ncloc="24" packages="1" files="3" classes="3"/>
+    <file name="PlaceholderLoading.tsx" path="/home/gabriel/Projects/lab/react-placeholder-loading/src/PlaceholderLoading.tsx">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+    </file>
+    <file name="index.tsx" path="/home/gabriel/Projects/lab/react-placeholder-loading/src/index.tsx">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+    <file name="utils.ts" path="/home/gabriel/Projects/lab/react-placeholder-loading/src/utils.ts">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="36" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
