@@ -1,6 +1,5 @@
 
-A simple component to create loading placeholders without write any SVG line
-
+<p align="center">A simple component to create loading placeholders without write any SVG line</p>
 <p align="center">
   <img src="https://github.com/gabrielbs/react-placeholder-loading/blob/master/example/shapes-example.gif">
 </p>
