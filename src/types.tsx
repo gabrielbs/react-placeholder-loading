@@ -6,8 +6,8 @@ export type ShapeInfo = Omit<
 >;
 
 export interface IPlaceholderLoadingProps {
-  width: number;
-  height: number;
+  width: number | string;
+  height: number | string;
   colorStart?: string;
   colorEnd?: string;
   shape: AvailableShapes;
