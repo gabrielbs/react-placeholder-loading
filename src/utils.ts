@@ -9,9 +9,9 @@ export const getShapeProps = (shapeInfo: ShapeInfo) => {
         height,
       },
       circle: {
-        cx: width / 2,
-        cy: height / 2,
-        r: (height + width) / 4,
+        cx: Number(width) / 2,
+        cy: Number(height) / 2,
+        r: (Number(height) + Number(width)) / 4,
       },
     };
 
