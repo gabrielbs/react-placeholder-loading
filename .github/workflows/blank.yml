@@ -13,8 +13,8 @@ jobs:
       run: |
         yarn install
         yarn test
-    - uses: mikeal/merge-release@v4.0.7
     - name: Publish to NPM
-    env:
+      uses: mikeal/merge-release@v4.0.7
+      env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
