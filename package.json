@@ -9,6 +9,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielbs/react-placeholder-loading"
+  },
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
