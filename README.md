@@ -4,7 +4,7 @@
   <img src="https://github.com/gabrielbs/react-placeholder-loading/blob/master/example/shapes-example.gif">
 </p>
 
-## Instalation
+## Installation
 
 ```
 npm i react-placeholder-loading --save
