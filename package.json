@@ -44,8 +44,5 @@
     "tsdx": "^0.11.0",
     "tslib": "^1.10.0",
     "typescript": "^3.7.3"
-  },
-  "dependencies": {
-    "utils": "^0.3.1"
   }
 }
